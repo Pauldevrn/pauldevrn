@@ -1,4 +1,4 @@
-## Olá eu sou o Alexandre Costa, criador de conteúdo de programação e tecnologia!
+## Olá eu sou o Paulo Costa!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
